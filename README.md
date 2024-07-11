@@ -15,7 +15,7 @@ Bacevitch wrote: "After twenty-three years spent inside the U.S. Army seemingly 
 
 - Writing and communications (veterans day piece here - https://harris.uchicago.edu/news-events/news/harris-voices-matt-ryan-mscapp-class-2024-stories-serve - more pieces available upon request)
 
-- Extracting and analyze text from adversarial political groups (dated example here, more upon request: https://github.com/deetherese/SummerProject_2023](https://github.com/uchicago-mscapp-projects/truth-inquery)
+- Extracting and analyze text from adversarial political groups (dated example here, more upon request: https://github.com/deetherese/SummerProject_2023](https://github.com/uchicago-mscapp-projects/truth-inquery )
 
 - Continuing to build skills at automate boring stuff and get at hard to find information with computers
 
