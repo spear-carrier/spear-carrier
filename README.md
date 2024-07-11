@@ -1,6 +1,6 @@
 # I'm Matt
 
-### I borrowed the term "spear-carrier" from reading Colonel Andrew Bacevich, Ret. for my username because it seemed like a good reminder to not always act as if I'm the main character.
+### I borrowed the username "spear-carrier" from reading Colonel Andrew Bacevich, Ret. because it seemed like a good reminder to not always act as if I'm the main character.
 
 Bacevitch wrote: "After twenty-three years spent inside the U.S. Army seemingly going somewhere, I now found myself on the outside going nowhere in particular. In the self-contained and cloistered universe of regimental life, I had briefly risen to the status of minor spear carrier. The instant I took off my uniform, that status vanished. I soon came to a proper appreciation of my own insignificance, a salutary lesson that I ought to have absorbed many years earlier."
 
