@@ -1,4 +1,4 @@
-# Hello, my name is Matt
+# I'm Matt
 
 ### I borrowed the term "spear-carrier" from reading Colonel Andrew Bacevich, Ret. for my username because it seemed like a good reminder to not always act as if I'm the main character.
 
