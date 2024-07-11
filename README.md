@@ -1,8 +1,10 @@
 # Hello, my name is Matt
 
-### I've worked for 12 years now in fields including military operations, intelligence, commercial cybersecurity project management, and SaaS customer success. 
+### I'm a recent graduate of the Harris School of Public Policy at The University of Chicago. 
 
-## I'm currently looking for a professional opportunities that use communications, data analysis, and policy analysis to protect people and mitigate the harms of fraud. 
+### I have 12 years of experience working in military operations, intelligence, commercial cybersecurity project management, and SaaS customer success. 
+
+## I'm currently looking for a professional opportunities that use communications, data analysis, and policy analysis to protect people, especially from fraud. 
 
 
 ### Some enduring projects that I'm proud of:
