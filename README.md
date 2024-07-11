@@ -17,7 +17,7 @@ Bacevitch wrote: "After twenty-three years spent inside the U.S. Army seemingly 
 
 - Extracting and analyze text from adversarial political groups (dated example here, more upon request: https://github.com/deetherese/SummerProject_2023](https://github.com/uchicago-mscapp-projects/truth-inquery)
 
-- Continuing to build skills at automate boring stuff with computers
+- Continuing to build skills at automate boring stuff and get at hard to find information with computers
 
 
 ### If you're interested in connecting: 
