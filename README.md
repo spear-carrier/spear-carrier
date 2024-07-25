@@ -8,7 +8,7 @@ Bacevitch wrote: "After twenty-three years spent inside the U.S. Army seemingly 
 
 ### I have 12 years of experience working in military operations, intelligence, commercial cybersecurity project management, and SaaS customer success. 
 
-## I'm currently looking for a professional opportunities that use communications, data analysis, and policy analysis to protect people, especially from fraud. 
+## I'm currently looking for a professional opportunities that use communications, data analysis, and policy analysis to protect people and strengthen civic life. 
 
 
 ### Some enduring projects that I'm proud of:
