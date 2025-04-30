@@ -4,20 +4,16 @@
 
 Bacevitch wrote: "After twenty-three years spent inside the U.S. Army seemingly going somewhere, I now found myself on the outside going nowhere in particular. In the self-contained and cloistered universe of regimental life, I had briefly risen to the status of minor spear carrier. The instant I took off my uniform, that status vanished. I soon came to a proper appreciation of my own insignificance, a salutary lesson that I ought to have absorbed many years earlier."
 
-### I'm a semi-recent graduate of the Harris School of Public Policy at The University of Chicago. 
+### I'm a mid career professional working in internet safety and public policy, with a background in military operations, intelligence, commercial cybersecurity project management, and SaaS customer success. 
 
-### I have 12 years of experience working in military operations, intelligence, commercial cybersecurity project management, and SaaS customer success. 
-
-## I'm currently looking for a professional opportunities that use communications, data analysis, and policy analysis to protect people and strengthen civic life. 
+## I'm interested in building skills in research, open source intelligence, and Python for use in communications and policy analysis to protect people and strengthen civic life.
 
 
 ### Some enduring projects that I'm proud of:
 
 - Writing and communications (veterans day piece here - https://harris.uchicago.edu/news-events/news/harris-voices-matt-ryan-mscapp-class-2024-stories-serve - more pieces available upon request)
 
-- Extracting and analyzing text from adversarial political groups (dated example here, more upon request: https://github.com/deetherese/SummerProject_2023](https://github.com/uchicago-mscapp-projects/truth-inquery)
-
-- Continuing to build skills at automate boring stuff and get at hard to find information with computers
+- Extracting and analyzing text from crisis pregnancy centers (dated example here, more upon request: https://github.com/deetherese/SummerProject_2023](https://github.com/uchicago-mscapp-projects/truth-inquery)
 
 
 ### If you're interested in connecting: 
